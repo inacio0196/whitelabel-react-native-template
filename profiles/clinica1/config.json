@@ -1,0 +1,8 @@
+{
+	"id": "com.clinica1",
+	"name": "clinica1",
+	"theme": "clinica1",
+	"baseUrl": "http://localhost:6900",
+	"modules": ["Home", "Mocks", "Settings"],
+	"iconsPath": "./icons"
+}

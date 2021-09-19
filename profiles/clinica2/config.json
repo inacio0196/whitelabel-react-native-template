@@ -1,0 +1,8 @@
+{
+	"id": "com.clinica2",
+	"name": "Clinica2",
+	"theme": "clinica2",
+	"baseUrl": "http://localhost:8000",
+	"modules": ["Home", "Settings"],
+	"iconsPath": "./icons"
+}
